@@ -1,0 +1,12 @@
+g15manager (2.0.1-1) trusty; urgency=low
+
+  * Shows the window by clicking on the systray icon
+  * Application icon
+
+ -- Nofre Móra Sagreres <nodiek@gmail.com>  Sun, 12 Oct 2014 19:51:17 +0200
+
+g15manager (2.0.0-1) trusty; urgency=low
+
+  * Initial release
+
+ -- Nofre Móra Sagreres <nodiek@gmail.com>  Wed, 08 Oct 2014 11:00:43 +0200
